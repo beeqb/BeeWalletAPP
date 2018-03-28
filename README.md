@@ -1,0 +1,2 @@
+# BeeWalletAPP
+BeeWallet Application
